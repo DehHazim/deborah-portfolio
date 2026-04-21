@@ -197,6 +197,10 @@ a {
   gap: 14px;
 }
 
+.contact-list {
+  margin-top: 22px;
+}
+
 .button {
   display: inline-flex;
   align-items: center;
